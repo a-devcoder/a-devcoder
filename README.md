@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adevcoder
 - 👀 I’m interested in ...Flutter, Python,C
-- 🌱 I’m currently learning ...Flutter
+- 🌱 I’m currently doing ...Flutter projects
 - 💞️ I’m looking to collaborate on ...Flutter Apps
 - 📫 How to reach me ...adevcoder@gmail.com
 
